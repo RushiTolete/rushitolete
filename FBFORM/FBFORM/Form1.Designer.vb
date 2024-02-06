@@ -63,6 +63,7 @@ Partial Class Form1
         ' 
         txt_pass.Location = New Point(95, 208)
         txt_pass.Name = "txt_pass"
+        txt_pass.PasswordChar = "*"c
         txt_pass.Size = New Size(267, 27)
         txt_pass.TabIndex = 3
         ' 

@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("FBFORM"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abb29af96acfc01a01e36c324d7e5bdba506def9"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("FBFORM"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("FBFORM"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

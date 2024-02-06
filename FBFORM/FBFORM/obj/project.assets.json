@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rushi\\source\\repos\\FBFORM\\FBFORM\\FBFORM.vbproj",
+      "projectUniqueName": "C:\\git\\rushitolete\\FBFORM\\FBFORM\\FBFORM.vbproj",
       "projectName": "FBFORM",
-      "projectPath": "C:\\Users\\Rushi\\source\\repos\\FBFORM\\FBFORM\\FBFORM.vbproj",
+      "projectPath": "C:\\git\\rushitolete\\FBFORM\\FBFORM\\FBFORM.vbproj",
       "packagesPath": "C:\\Users\\Rushi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rushi\\source\\repos\\FBFORM\\FBFORM\\obj\\",
+      "outputPath": "C:\\git\\rushitolete\\FBFORM\\FBFORM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rushi\\AppData\\Roaming\\NuGet\\NuGet.Config",

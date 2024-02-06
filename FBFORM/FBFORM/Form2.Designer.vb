@@ -75,7 +75,9 @@ Partial Class Form2
         ' txt_pass
         ' 
         txt_pass.Location = New Point(76, 220)
+        txt_pass.Multiline = True
         txt_pass.Name = "txt_pass"
+        txt_pass.PasswordChar = "*"c
         txt_pass.Size = New Size(241, 27)
         txt_pass.TabIndex = 4
         ' 
@@ -83,6 +85,7 @@ Partial Class Form2
         ' 
         txt_conf.Location = New Point(76, 262)
         txt_conf.Name = "txt_conf"
+        txt_conf.PasswordChar = "*"c
         txt_conf.Size = New Size(241, 27)
         txt_conf.TabIndex = 5
         ' 
