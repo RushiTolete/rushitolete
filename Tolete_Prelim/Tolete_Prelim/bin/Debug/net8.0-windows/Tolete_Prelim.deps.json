@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tolete_Prelim/1.0.0": {
+        "runtime": {
+          "Tolete_Prelim.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tolete_Prelim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
