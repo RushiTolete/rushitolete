@@ -1,0 +1,16 @@
+C:\Users\Rushi\source\repos\Functions\Functions\bin\Debug\net8.0-windows\Functions.exe
+C:\Users\Rushi\source\repos\Functions\Functions\bin\Debug\net8.0-windows\Functions.deps.json
+C:\Users\Rushi\source\repos\Functions\Functions\bin\Debug\net8.0-windows\Functions.runtimeconfig.json
+C:\Users\Rushi\source\repos\Functions\Functions\bin\Debug\net8.0-windows\Functions.dll
+C:\Users\Rushi\source\repos\Functions\Functions\bin\Debug\net8.0-windows\Functions.pdb
+C:\Users\Rushi\source\repos\Functions\Functions\obj\Debug\net8.0-windows\Functions.Form1.resources
+C:\Users\Rushi\source\repos\Functions\Functions\obj\Debug\net8.0-windows\Functions.vbproj.GenerateResource.cache
+C:\Users\Rushi\source\repos\Functions\Functions\obj\Debug\net8.0-windows\Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rushi\source\repos\Functions\Functions\obj\Debug\net8.0-windows\Functions.AssemblyInfoInputs.cache
+C:\Users\Rushi\source\repos\Functions\Functions\obj\Debug\net8.0-windows\Functions.AssemblyInfo.vb
+C:\Users\Rushi\source\repos\Functions\Functions\obj\Debug\net8.0-windows\Functions.vbproj.CoreCompileInputs.cache
+C:\Users\Rushi\source\repos\Functions\Functions\obj\Debug\net8.0-windows\Functions.dll
+C:\Users\Rushi\source\repos\Functions\Functions\obj\Debug\net8.0-windows\refint\Functions.dll
+C:\Users\Rushi\source\repos\Functions\Functions\obj\Debug\net8.0-windows\Functions.pdb
+C:\Users\Rushi\source\repos\Functions\Functions\obj\Debug\net8.0-windows\Functions.genruntimeconfig.cache
+C:\Users\Rushi\source\repos\Functions\Functions\obj\Debug\net8.0-windows\ref\Functions.dll
