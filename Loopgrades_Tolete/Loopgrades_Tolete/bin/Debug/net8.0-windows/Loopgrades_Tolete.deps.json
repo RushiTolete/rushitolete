@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Loopgrades_Tolete/1.0.0": {
+        "runtime": {
+          "Loopgrades_Tolete.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loopgrades_Tolete/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
