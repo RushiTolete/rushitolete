@@ -1,0 +1,17 @@
+C:\Users\Rushi\source\repos\FormVal_SignUp_Tolete\FormVal_SignUp_Tolete\bin\Debug\net8.0-windows\FormVal_SignUp_Tolete.exe
+C:\Users\Rushi\source\repos\FormVal_SignUp_Tolete\FormVal_SignUp_Tolete\bin\Debug\net8.0-windows\FormVal_SignUp_Tolete.deps.json
+C:\Users\Rushi\source\repos\FormVal_SignUp_Tolete\FormVal_SignUp_Tolete\bin\Debug\net8.0-windows\FormVal_SignUp_Tolete.runtimeconfig.json
+C:\Users\Rushi\source\repos\FormVal_SignUp_Tolete\FormVal_SignUp_Tolete\bin\Debug\net8.0-windows\FormVal_SignUp_Tolete.dll
+C:\Users\Rushi\source\repos\FormVal_SignUp_Tolete\FormVal_SignUp_Tolete\bin\Debug\net8.0-windows\FormVal_SignUp_Tolete.pdb
+C:\Users\Rushi\source\repos\FormVal_SignUp_Tolete\FormVal_SignUp_Tolete\obj\Debug\net8.0-windows\FormVal_SignUp_Tolete.Form1.resources
+C:\Users\Rushi\source\repos\FormVal_SignUp_Tolete\FormVal_SignUp_Tolete\obj\Debug\net8.0-windows\FormVal_SignUp_Tolete.vbproj.GenerateResource.cache
+C:\Users\Rushi\source\repos\FormVal_SignUp_Tolete\FormVal_SignUp_Tolete\obj\Debug\net8.0-windows\FormVal_SignUp_Tolete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rushi\source\repos\FormVal_SignUp_Tolete\FormVal_SignUp_Tolete\obj\Debug\net8.0-windows\FormVal_SignUp_Tolete.AssemblyInfoInputs.cache
+C:\Users\Rushi\source\repos\FormVal_SignUp_Tolete\FormVal_SignUp_Tolete\obj\Debug\net8.0-windows\FormVal_SignUp_Tolete.AssemblyInfo.vb
+C:\Users\Rushi\source\repos\FormVal_SignUp_Tolete\FormVal_SignUp_Tolete\obj\Debug\net8.0-windows\FormVal_SignUp_Tolete.vbproj.CoreCompileInputs.cache
+C:\Users\Rushi\source\repos\FormVal_SignUp_Tolete\FormVal_SignUp_Tolete\obj\Debug\net8.0-windows\FormVal_SignUp_Tolete.dll
+C:\Users\Rushi\source\repos\FormVal_SignUp_Tolete\FormVal_SignUp_Tolete\obj\Debug\net8.0-windows\refint\FormVal_SignUp_Tolete.dll
+C:\Users\Rushi\source\repos\FormVal_SignUp_Tolete\FormVal_SignUp_Tolete\obj\Debug\net8.0-windows\FormVal_SignUp_Tolete.pdb
+C:\Users\Rushi\source\repos\FormVal_SignUp_Tolete\FormVal_SignUp_Tolete\obj\Debug\net8.0-windows\FormVal_SignUp_Tolete.genruntimeconfig.cache
+C:\Users\Rushi\source\repos\FormVal_SignUp_Tolete\FormVal_SignUp_Tolete\obj\Debug\net8.0-windows\ref\FormVal_SignUp_Tolete.dll
+C:\Users\Rushi\source\repos\FormVal_SignUp_Tolete\FormVal_SignUp_Tolete\obj\Debug\net8.0-windows\FormVal_SignUp_Tolete.Resources.resources
